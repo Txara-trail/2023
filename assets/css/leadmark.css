@@ -11813,3 +11813,8 @@ footer{
         height: 30px;
     }
 }
+
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
